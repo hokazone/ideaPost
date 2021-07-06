@@ -1,5 +1,5 @@
 # :bulb: ideaPost
-Idea sharing and connection platform.
+idea sharing and connection platform
 
 # :package: Features
 + posting ideas
