@@ -1,14 +1,13 @@
 # :bulb: ideaPost
-idea sharing and connection platform
+idea sharing platform
 
 # :package: Features
-+ posting ideas
 + sharing ideas
-+ connenction ideas
++ getting ideas
 
 # :speech_balloon: Summary
-## :computer: frontend:
+## :computer: frontend
 + PHP
 + vue.js
-## :computer: backend:
+## :computer: backend
 + Laravel
