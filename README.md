@@ -2,8 +2,9 @@
 idea sharing platform
 
 # :package: Features
-+ sharing ideas
-+ getting ideas
++ sharing idea
++ getting idea
++ connect ideas
 
 # :speech_balloon: Summary
 ## :computer: frontend
