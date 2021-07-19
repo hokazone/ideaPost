@@ -1,5 +1,7 @@
 # :bulb: ideaPost
-idea sharing platform
+![cover_photo_3](https://user-images.githubusercontent.com/82143008/126089588-859359c6-148d-4e91-b299-9afa09688773.png)
+<br>
+ideaPost is an information sharing platform for all planners.
 
 # :package: Features
 + sharing idea
@@ -8,7 +10,6 @@ idea sharing platform
 
 # :speech_balloon: Summary
 ## :computer: frontend
-+ PHP
-+ vue.js
++ Laravel / Jetstream
 ## :computer: backend
 + Laravel
